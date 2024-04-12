@@ -1,0 +1,6 @@
+historical/data/*
+historical/data_with_indicators/*
+lib
+__pycache__
+bin
+share
